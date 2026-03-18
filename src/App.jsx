@@ -1,9 +1,9 @@
 import { useState } from "react";
-import HangmanImage from "./components/HangmanImage";
-import WordDisplay from "./components/WordDisplay";
-import LetterButtons from "./components/LetterButtons";
-import GameStatusModal from "./components/GameStatusModal";
-import NewGameButton from "./components/NewGameButton";
+import HangmanImage from "./HangmanDisplay";
+import WordDisplay from "./WordDisplay";
+import LetterButtons from "./LetterSelector";
+import GameStatusModal from "./GameStatus";
+import NewGameButton from "./NewGameButton";
 
 const WORDS = ["REACT", "DOCKER", "JAVASCRIPT", "COMPONENT", "PROGRAM"];
 
