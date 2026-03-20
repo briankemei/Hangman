@@ -7,17 +7,18 @@ import hangman2 from "./assets/Dead.png";
 import hangman3 from "./assets/leg.png";
 import hangman4 from "./assets/noose.png";
 import hangman5 from "./assets/upperbody.png";
-import hangman6 from "./assets/upperandlowerbody.png";
+
 
 // store images
 const images = [
-  hangman0,
-  hangman1,
-  hangman2,
-  hangman3,
   hangman4,
   hangman5,
-  hangman6
+  
+  hangman0,
+  hangman1,
+  hangman3,
+  hangman2,  
+ 
 ];
 
 function HangmanImage({ mistakes }) {
