@@ -12,3 +12,4 @@ function GameStatusModal({ gameStatus }){
 }
 
 export default GameStatusModal;
+

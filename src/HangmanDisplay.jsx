@@ -12,14 +12,12 @@ import hangman5 from "./assets/upperbody.png";
 // store images
 const images = [
   hangman4,
-  hangman5,
-  
+  hangman5,  
   hangman0,
   hangman1,
   hangman3,
   hangman2,  
- 
-];
+ ];
 
 function HangmanImage({ mistakes }) {
 
