@@ -1,4 +1,4 @@
-# 🎮 Hangman Game (Full Stack: React + Node + DynamoDB + Docker)
+# Hangman Game (Full Stack: React + Node + DynamoDB + Docker)
 
 ## Description
 
