@@ -3,6 +3,8 @@
 
 This is a Hangman game built using React. The user guesses letters to reveal a hidden word before running out of lives. The game updates the UI dynamically based on user input.
 ## Features
+Login form
+logout button.
 Display hangman image based on mistakes
 Select letters from A–Z
 Disable already selected letters
